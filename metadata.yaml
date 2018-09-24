@@ -1,0 +1,24 @@
+_repo: La-National-Gallery_56859
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dayot, Armand
+    gutenberg_agent_id: '46201'
+    url: http://www.gutenberg.org/2009/agents/46201
+description: ''
+gutenberg_bookshelf:
+- FR Beaux-Arts
+- FR Nouveautés
+- FR Peinture
+gutenberg_issued: '2018-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56859'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La "National Gallery"
+url: http://www.gutenberg.org/ebooks/56859
